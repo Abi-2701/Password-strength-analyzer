@@ -22,3 +22,12 @@ A Python-based cybersecurity tool that evaluates password strength based on secu
 - GUI Version
 - Password Entropy Calculation
 - Breach Database Integration
+
+
+## Maintainer
+
+GitHub: Abi-2701
+
+## License
+
+MIT License
